@@ -2,6 +2,8 @@ import AxiosInstance from "./ConfigServer";
 import Meta from "../components/classes/Meta";
 
 class MetaService {
+
+
     getMetas = async () => {
         try {
             const response = await AxiosInstance.get(`metas/list`);

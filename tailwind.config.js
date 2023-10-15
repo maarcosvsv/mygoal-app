@@ -16,7 +16,9 @@ module.exports = {
                 'bermuda': '#78dcca',
                 'silver-teal': '#00adb5',
                 'hover-silver-teal': '#00B5BD',
-                'black': '#000000'
+                'black': '#000000',
+                'progress-bar-back': '#F0F0F0',
+                'progress-bar-completed': '#42A5DB'
         },
         extend: {},
     },
